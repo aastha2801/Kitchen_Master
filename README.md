@@ -1,15 +1,15 @@
 # Kitchen_Master
 
-## Implemented in this project:
+### Implemented in this project:
 - Intent
 - BroadcastReceiver
 - Animation
 - Database
 
-## Abstract:
+### Abstract:
 Kitchen Master is a Quiz App with fun easy Kitchen questions for cooking lovers which also stores the score. The application works on any android device.
 
-## STEPS OF THIS PROJECT:
+### STEPS OF THIS PROJECT:
 
 Step1: Create a new project.
 
