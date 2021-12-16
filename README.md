@@ -58,6 +58,8 @@ Step 8 :  In Result.kt file
 Step 9 : Create CallReceiver.kt file for incoming call while using the App using broadcast receiver.
 	And add permissions and CallReceiver code to manifest file.
 	
+![Main output](https://user-images.githubusercontent.com/79099710/146317492-f6b83049-651d-4adc-ab21-9d53c265c7cb.png)
+
 	
-	![Main output](https://user-images.githubusercontent.com/79099710/146317313-89ca9a2d-1d08-41b9-b195-a9c501636751.png)
+	
 
